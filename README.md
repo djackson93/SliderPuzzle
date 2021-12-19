@@ -7,7 +7,7 @@
  
  * - "Goal State" - A state in which all '2' colors are on left of all '1' colors
  
- * Author:@Jason Chambliss, @Dakota Jackson
+ * Author: @Jason Chambliss, @Dakota Jackson
 ----------------------------------------------------------------------------------
 
 This program utilizes a best-first informed search AI algorithm.
