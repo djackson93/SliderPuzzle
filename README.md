@@ -9,15 +9,3 @@
  
  * Author: @Jason Chambliss, @Dakota Jackson
 ----------------------------------------------------------------------------------
-
-This program utilizes a best-first informed search AI algorithm.
-
--There are 7 possible goal states. 
-
-- Because there are multiple goal states, there are varying heights to reach it. 
-  Our program located a goal state with a depth of 23, but we were able to locate
-   a goal state with a depth of 12.
-
-- The number of the goal state found by the program is 129.
-
-- The worst case time complexity of Best first search is O(nlog(n))
